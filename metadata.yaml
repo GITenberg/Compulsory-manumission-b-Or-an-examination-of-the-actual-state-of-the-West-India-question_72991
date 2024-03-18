@@ -1,11 +1,16 @@
 _repo: Compulsory-manumission-b-Or-an-examination-of-the-actual-state-of-the-West-India-question_72991
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72991-h/images/cover.jpg
 creator:
   author:
     agent_name: M'Donnell, Alexander
     gutenberg_agent_id: '56898'
     url: http://www.gutenberg.org/2009/agents/56898
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72991#Compulsory-manumission-b-Or-an-examination-of-the-actual-state-of-the-West-India-question
 gutenberg_issued: '2024-02-19'
 gutenberg_type: Text
 identifiers:
